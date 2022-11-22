@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ikezedev
-- Account moved from [@iykekings](../iykekings)
+- Account moved from [@iykekings](https://github.com/iykekings)
 - 👀 I’m interested in Rust, WebAssembly and everything Web(as far as it is with Typescript)
 - 🌱 I’m currently working with Rust and Kotlin
 - 💞️ I’m looking to collaborate on  impactful projects
