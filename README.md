@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ikezedev
+- Account moved from [@iykekings](../iykekings)
 - 👀 I’m interested in Rust, WebAssembly and everything Web(as far as it is with Typescript)
-- 🌱 I’m currently learning Macros in Rust, Coroutines in Kotlin etc
-- 💞️ I’m looking to collaborate on fun and impactful projects
-- 📫 How to reach me hello@ikeze.dev
+- 🌱 I’m currently working with Rust and Kotlin
+- 💞️ I’m looking to collaborate on  impactful projects
+- 📫 How to reach me iykekings36@gmail.com
 
 <!---
 ikezedev/ikezedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
