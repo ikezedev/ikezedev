@@ -1,5 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/512f011c-73db-442c-b1b5-0e49254195f7.svg)](https://wakatime.com/@512f011c-73db-442c-b1b5-0e49254195f7)
 - 👋 Hi, I’m @ikezedev
+- See work account here [@ikechukwu-eze-adsk](https://github.com/ikechukwu-eze-adsk)
 - Account moved from [@iykekings](https://github.com/iykekings)
 - 👀 I’m interested in Rust, WebAssembly, Compilers, Parsers, OAuth2 and Typescript
 - 🌱 I’m currently working with Rust and Kotlin
